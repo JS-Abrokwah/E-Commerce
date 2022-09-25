@@ -64,7 +64,6 @@ button.norm{
     background-color:transparent;
     cursor: pointer;
     border-color: #fff; 
-   
     transition: 0.3s;
 }
 body{
